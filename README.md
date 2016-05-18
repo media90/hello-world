@@ -1,4 +1,4 @@
 # hello-world
 Ein Repository
 
-Das erste Projekt.
+Das erste Projekt mit Github.
